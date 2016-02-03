@@ -1,0 +1,14 @@
+h3 {color:blue;}
+table {font-size:12pt;margin-left:auto;margin-right:auto;border-radius:7px;border:2px solid darkblue;}
+body {background:-webkit-linear-gradient(LightSkyBlue,white); /* For Safari 5.1 to 6.0 */ background:-o-linear-gradient(LightSkyBlue,white); /* For Opera 11.1 to 12.0 */ background:-moz-linear-gradient(LightSkyBlue,white); /* For Firefox 3.6 to 15 */ background:linear-gradient(LightSkyBlue,white); /* Standard syntax */}
+td {border-radius:5px;border:1px solid darkblue;padding:5px;}
+th {border-radius:5px;border:1px solid darkblue;padding:3px;background-color:blue;color:white;font-weight:bold;}
+tr:hover {text-decoration:initial;border:solid darkblue 2px;background-color:lightyellow;color:black;}
+.highlight {background-color:yellow;font-weight:bold;padding-left:3px;padding-right:3px;}
+.hlink2 {width:330px;margin-left:auto;margin-right:auto;color:white;background-color:Indigo;font-weight:bold;text-shadow:1px 1px 1px black,0px 0px 1px yellow;box-shadow:3px 3px 1px grey;padding:20px;text-align:center;font-size:18px;font-family:"Times New Roman", Georgia, Serif;border:outset blue 3px;border-radius:5px;}	
+.hlink2:hover {cursor:pointer;border:outset darkblue 3px;background-color:HoneyDew;color:Indigo;text-shadow:0 0 1px HoneyDew;text-decoration:initial;}
+.hlink2:active {position:relative;top:5px;left:5px;box-shadow:1px 1px 1px grey;color:pink;text-shadow:1px 1px 1px red;}
+.portion {border-radius:2em;border:2px solid Indigo;padding:10px;background-color:white;}
+.portion2 {width:90%;margin-left:auto;margin-right:auto;border-radius:3em;padding:10px;border:2px solid Indigo;padding:10px;background-color:white;}
+.portion_link {width:390px;margin-left:auto;margin-right:auto;border-radius:3em;padding:10px;border:2px solid Indigo;padding:10px;background-color:white;}
+.update {width:270px;border-radius:3em;padding:10px;border:2px solid Indigo;padding:10px;background-color:yellow;}
